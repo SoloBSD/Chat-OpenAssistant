@@ -7,7 +7,7 @@ A quick tutorial on how to interact with Open Assistant API and use it in your o
 ## Clone the Repo:
 Clone the repository. 
 ```shell
-git clone https://github.com/PromtEngineer/Chat-App-OpenAssistant-API.git
+git clone https://github.com/SoloBSD/Chat-OpenAssistant.git
 ```
 
 ## Environment Setup
